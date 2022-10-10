@@ -1,1 +1,1 @@
-# Predicting-diabetes-with-Logstic-regression-and-KNN-algorithm
+# Predicting-diabetes-with-Logistic-regression-and-KNN-algorithm
